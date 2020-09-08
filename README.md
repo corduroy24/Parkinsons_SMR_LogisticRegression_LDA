@@ -1,1 +1,1 @@
-# Parkinsons_SMR_Machine_Learning
+# Parkinsons_SMR_LogisticRegression_LDA_ML
